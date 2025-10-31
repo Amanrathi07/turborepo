@@ -63,8 +63,8 @@ export default function Home() {
             Read our docs
           </a>
         </div>
-        <Button appName="docs" className={styles.secondary}>
-          Open alert
+        <Button appName="aman" className={styles.secondary}>
+          greating 
         </Button>
       </main>
       <footer className={styles.footer}>
